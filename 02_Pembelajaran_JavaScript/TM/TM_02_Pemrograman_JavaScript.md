@@ -11,7 +11,7 @@ tm.js
 tm.js
 
 ## Output
-![alt text](<>)
+![alt text](<Screenshot 2026-03-10 200433.png>)
 
 Deskripsi Program
 
