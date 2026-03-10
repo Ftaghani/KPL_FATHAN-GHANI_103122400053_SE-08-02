@@ -10,7 +10,7 @@ Tersedia di index.js
 
 ## Output
 
-![alt text](<Screenshot 2026-03-03 220100.png>)
+![alt text](Screenshot 2026-03-03 220100.png)
 
 ## Deskripsi Program
 
