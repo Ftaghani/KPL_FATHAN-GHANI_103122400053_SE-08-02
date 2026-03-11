@@ -12,7 +12,7 @@ tm.js
 
 ## Output
 
-![alt text](Screenshot 2026-03-10 200433.png)
+![alt text](<Screenshot 2026-03-10 200433.png>)
 
 Deskripsi Program
 
