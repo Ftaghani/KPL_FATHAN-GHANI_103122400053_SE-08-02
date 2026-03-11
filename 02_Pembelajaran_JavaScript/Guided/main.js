@@ -15,3 +15,11 @@ function absolutevalue(input) {
 }
 let apakahgenap = ganjilgenap(145);
 console.log(apakahgenap);
+
+const user = {
+    "first name": "Fathan",
+    lastName: "Ghani",
+    age: 20,
+};
+
+console.log(user["first name"]);
