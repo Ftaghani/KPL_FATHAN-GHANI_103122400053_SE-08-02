@@ -1,0 +1,31 @@
+{
+    "name": "kpl_fathan_ghani_103122400053_se-08-02",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Ftaghani/KPL_FATHAN-GHANI_103122400053_SE-08-02.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+      "url": "https://github.com/Ftaghani/KPL_FATHAN-GHANI_103122400053_SE-08-02/issues"
+    },
+    "homepage": "https://github.com/Ftaghani/KPL_FATHAN-GHANI_103122400053_SE-08-02#readme",
+    "devDependencies": {
+      "typescript": "^6.0.2"
+    },
+    "dependencies": {
+      "dotenv": "^17.4.2",
+      "express": "^5.2.1",
+      "hitung-teks": "file:10_/TP",
+      "swagger-jsdoc": "^6.2.8",
+      "swagger-ui-express": "^5.0.1"
+    }
+  }
